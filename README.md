@@ -1,0 +1,2 @@
+# minds
+My mind maps.
